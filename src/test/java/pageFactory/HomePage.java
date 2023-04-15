@@ -17,7 +17,8 @@ public class HomePage {
 	@FindBy(xpath="//button[contains(text(),'Get Started')]")WebElement btnGetStart;
 	@FindBy(xpath="//div[1]/a[contains(text(),'Get Started')]")WebElement btnDSGetStart;
 	@FindBy(xpath="//div[@id=\"navbarCollapse\"]/div[1]/div/a")WebElement dsMenu;
-	@FindBy(xpath="//div[@id=\"navbarCollapse\"]/div[1]/div/div/a[1]")WebElement selectArrays;
+	//@FindBy(xpath="//div[@id=\"navbarCollapse\"]/div[1]/div/div/a[1]")WebElement selectArrays;
+	@FindBy(xpath="//body/div[3]/div[6]/div/div/a")WebElement selectTrees;
 	
 	public void clickGetStartBtn() {
 		btnGetStart.click();
@@ -27,8 +28,9 @@ public class HomePage {
 		btnDSGetStart.click();
 	}
 	public void clickDSMenu() {
-		dsMenu.click();
-		selectArrays.click();
+		//dsMenu.click();
+		//selectArrays.click();
+		selectTrees.click();
 	}
 	
 }

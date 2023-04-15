@@ -44,5 +44,4 @@ Feature: Home Page
     Then The user get warning message "You are not logged in"
     And Close browser
     
-    
-  
+ 

@@ -9,8 +9,9 @@ import io.cucumber.testng.CucumberOptions;
 		plugin = {"pretty", "html:target/cucumber-report.html"}, //reporting purpose
 		monochrome=false,  //console output color
 		
-		features = {"src/test/resources/Features"}, //location of feature files
-		glue= "stepDefinitions") //location of step definition files
+		features = {"src/test/resources/Features/learning.feature"}, //location of feature files
+		glue= "stepDefinitions" ,//location of step definition files
+        dryRun = false )
 
 
 
