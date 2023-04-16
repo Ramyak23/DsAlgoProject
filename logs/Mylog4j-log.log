@@ -4,18 +4,517 @@
 ['ERROR]2023-03-30 13:09:36,565(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are not logged in
 ['ERROR]2023-03-30 13:11:58,783(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are not logged in
 ['ERROR]2023-03-30 13:15:01,078(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are not logged in
-['ERROR]2023-03-30 14:14:32,738(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are not logged in
-['ERROR]2023-03-30 14:18:43,670(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are not logged in
-['ERROR]2023-03-30 14:26:22,034(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are not logged in
-['ERROR]2023-03-30 14:34:22,708(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are not logged in
-['ERROR]2023-03-30 14:51:38,024(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are not logged in
-['ERROR]2023-03-30 17:55:03,672(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are not logged in
-['ERROR]2023-03-30 18:06:07,265(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are not logged in
-['ERROR]2023-03-30 18:13:03,071(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are not logged in
-['ERROR]2023-03-30 18:23:44,113(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are not logged in
-['ERROR]2023-03-30 18:31:21,134(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are not logged in
-['ERROR]2023-03-30 18:41:34,203(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are not logged in
 ['ERROR]2023-03-30 18:44:51,638(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are not logged in
 ['ERROR]2023-03-30 18:45:01,439(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are not logged in
 ['ERROR]2023-04-01 19:14:22,710(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are not logged in
 ['ERROR]2023-04-01 19:14:33,641(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are not logged in
+['INFO ]2023-04-03 22:19:11,052(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are logged in
+['INFO ]2023-04-03 22:44:35,271(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are logged in
+['INFO ]2023-04-03 22:44:45,220(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are logged in
+['INFO ]2023-04-03 22:46:04,390(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are logged in
+['INFO ]2023-04-03 22:46:16,559(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are logged in
+['INFO ]2023-04-04 08:39:47,897(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are logged in
+['INFO ]2023-04-04 08:39:57,236(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are logged in
+['INFO ]2023-04-04 08:43:05,130(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are logged in
+['INFO ]2023-04-04 08:43:17,138(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are logged in
+['ERROR]2023-04-04 08:43:33,902(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are not logged in
+['ERROR]2023-04-04 08:43:44,300(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are not logged in
+['ERROR]2023-04-04 10:34:52,953(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are not logged in
+['ERROR]2023-04-04 10:35:03,531(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are not logged in
+['INFO ]2023-04-04 18:55:02,832(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are logged in
+['INFO ]2023-04-04 18:57:20,073(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are logged in
+['ERROR]2023-04-04 18:57:36,047(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are not logged in
+['ERROR]2023-04-04 18:57:46,263(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are not logged in
+['ERROR]2023-04-04 19:07:59,557(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are not logged in
+['ERROR]2023-04-04 19:08:09,007(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are not logged in
+['ERROR]2023-04-04 19:15:23,366(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are not logged in
+['ERROR]2023-04-04 19:15:33,057(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are not logged in
+['ERROR]2023-04-04 19:18:01,897(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are not logged in
+['ERROR]2023-04-04 19:18:11,213(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are not logged in
+['ERROR]2023-04-04 19:27:47,564(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are not logged in
+['ERROR]2023-04-04 19:27:59,175(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are not logged in
+['ERROR]2023-04-05 17:34:41,543(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are not logged in
+['ERROR]2023-04-05 17:34:52,986(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are not logged in
+['ERROR]2023-04-05 17:37:56,276(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are not logged in
+['ERROR]2023-04-05 17:38:05,421(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are not logged in
+['ERROR]2023-04-05 17:43:02,760(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are not logged in
+['ERROR]2023-04-05 17:43:12,228(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are not logged in
+['ERROR]2023-04-05 18:06:08,129(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are not logged in
+['ERROR]2023-04-05 18:11:15,553(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are not logged in
+['ERROR]2023-04-05 18:11:27,634(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are not logged in
+['ERROR]2023-04-05 18:17:46,655(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are not logged in
+['ERROR]2023-04-05 18:17:57,719(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are not logged in
+['INFO ]2023-04-05 19:16:05,499(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are logged in
+['INFO ]2023-04-05 19:16:16,931(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are logged in
+['INFO ]2023-04-05 19:21:04,929(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are logged in
+['INFO ]2023-04-05 19:21:19,079(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are logged in
+['ERROR]2023-04-05 19:21:38,258(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are not logged in
+['ERROR]2023-04-05 19:21:48,240(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are not logged in
+['ERROR]2023-04-06 07:26:58,201(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are not logged in
+['ERROR]2023-04-06 07:27:08,174(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are not logged in
+['INFO ]2023-04-06 07:30:49,604(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are logged in
+['INFO ]2023-04-06 07:31:00,858(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are logged in
+['ERROR]2023-04-06 07:43:43,282(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are not logged in
+['ERROR]2023-04-06 07:43:53,485(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are not logged in
+['INFO ]2023-04-06 07:51:42,686(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are logged in
+['INFO ]2023-04-06 07:51:53,403(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are logged in
+['INFO ]2023-04-06 11:25:20,948(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-*******Launching Browser********
+['INFO ]2023-04-06 11:25:24,932(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are logged in
+['INFO ]2023-04-06 11:25:31,673(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-*******Launching Browser********
+['INFO ]2023-04-06 11:25:34,397(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are logged in
+['INFO ]2023-04-06 11:25:41,497(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-*******Launching Browser********
+['INFO ]2023-04-06 11:25:52,578(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-*******Launching Browser********
+['ERROR]2023-04-06 11:25:55,053(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are not logged in
+['INFO ]2023-04-06 11:26:00,881(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-*******Launching Browser********
+['ERROR]2023-04-06 11:26:05,019(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are not logged in
+['INFO ]2023-04-06 11:41:03,577(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Launching Browser********
+['INFO ]2023-04-06 11:41:06,409(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are logged in
+['INFO ]2023-04-06 11:41:13,418(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Launching Browser********
+['INFO ]2023-04-06 11:41:16,084(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are logged in
+['INFO ]2023-04-06 11:41:22,596(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Launching Browser********
+['INFO ]2023-04-06 11:41:30,650(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Launching Browser********
+['ERROR]2023-04-06 11:41:32,344(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are not logged in
+['INFO ]2023-04-06 11:41:37,914(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Launching Browser********
+['ERROR]2023-04-06 11:41:43,067(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are not logged in
+['INFO ]2023-04-06 22:11:41,462(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Launching Browser********
+['INFO ]2023-04-06 22:11:46,814(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Launching Browser********
+['INFO ]2023-04-06 22:11:52,516(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Launching Browser********
+['INFO ]2023-04-06 22:11:52,591(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Opening DSAlgo Portal********
+['INFO ]2023-04-06 22:11:59,407(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Launching Browser********
+['INFO ]2023-04-06 22:11:59,411(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Validating Home Page********
+['ERROR]2023-04-06 22:12:02,855(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are not logged in
+['INFO ]2023-04-06 22:12:08,747(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Launching Browser********
+['INFO ]2023-04-06 22:12:08,749(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Validating Home Page********
+['ERROR]2023-04-06 22:12:12,469(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are not logged in
+['INFO ]2023-04-06 22:16:43,182(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Launching Browser********
+['INFO ]2023-04-06 22:16:57,872(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Launching Browser********
+['INFO ]2023-04-06 22:20:26,407(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Launching Browser********
+['INFO ]2023-04-06 22:20:32,732(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Launching Browser********
+['INFO ]2023-04-06 22:22:07,374(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Launching Browser********
+['INFO ]2023-04-06 22:22:13,342(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Launching Browser********
+['INFO ]2023-04-06 22:39:30,612(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Launching Browser********
+['INFO ]2023-04-06 22:39:38,508(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Launching Browser********
+['INFO ]2023-04-06 22:42:35,914(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Launching Browser********
+['INFO ]2023-04-06 22:42:42,455(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Launching Browser********
+['INFO ]2023-04-06 22:47:27,712(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Launching Browser********
+['INFO ]2023-04-06 22:47:31,222(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are logged in
+['INFO ]2023-04-06 22:47:31,223(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Data Structures-Introduction********
+['INFO ]2023-04-06 22:47:38,864(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Launching Browser********
+['INFO ]2023-04-06 22:47:42,820(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are logged in
+['INFO ]2023-04-06 22:47:42,821(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Data Structures-Introduction********
+['INFO ]2023-04-06 22:50:08,366(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Launching Browser********
+['INFO ]2023-04-06 22:50:12,960(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are logged in
+['INFO ]2023-04-06 22:50:12,962(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Data Structures-Introduction********
+['INFO ]2023-04-06 22:50:31,751(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Launching Browser********
+['INFO ]2023-04-06 22:50:36,515(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are logged in
+['INFO ]2023-04-06 22:50:36,516(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Data Structures-Introduction********
+['INFO ]2023-04-06 22:50:44,668(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Launching Browser********
+['INFO ]2023-04-06 22:50:44,675(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Opening DSAlgo Portal********
+['INFO ]2023-04-06 22:50:52,703(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Launching Browser********
+['INFO ]2023-04-06 22:50:52,705(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Validating Home Page********
+['ERROR]2023-04-06 22:50:54,705(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are not logged in
+['INFO ]2023-04-06 22:51:00,809(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Launching Browser********
+['INFO ]2023-04-06 22:51:00,815(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Validating Home Page********
+['ERROR]2023-04-06 22:51:04,694(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are not logged in
+['INFO ]2023-04-07 09:48:45,394(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Launching Browser********
+['INFO ]2023-04-07 09:48:49,351(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are logged in
+['INFO ]2023-04-07 09:48:49,353(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Data Structures-Introduction********
+['INFO ]2023-04-07 09:48:56,971(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Launching Browser********
+['INFO ]2023-04-07 09:49:00,979(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are logged in
+['INFO ]2023-04-07 09:49:00,981(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Data Structures-Introduction********
+['INFO ]2023-04-07 09:49:08,478(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Launching Browser********
+['INFO ]2023-04-07 09:49:08,487(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Opening DSAlgo Portal********
+['INFO ]2023-04-07 09:49:15,581(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Launching Browser********
+['INFO ]2023-04-07 09:49:15,584(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Validating Home Page********
+['ERROR]2023-04-07 09:49:19,136(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are not logged in
+['INFO ]2023-04-07 09:49:24,971(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Launching Browser********
+['INFO ]2023-04-07 09:49:24,974(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Validating Home Page********
+['ERROR]2023-04-07 09:49:29,816(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are not logged in
+['INFO ]2023-04-07 10:05:58,170(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Launching Browser********
+['INFO ]2023-04-07 10:06:01,797(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are logged in
+['INFO ]2023-04-07 10:06:01,799(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Data Structures-Introduction********
+['INFO ]2023-04-07 10:06:09,086(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Launching Browser********
+['INFO ]2023-04-07 10:06:12,706(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are logged in
+['INFO ]2023-04-07 10:06:12,707(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Data Structures-Introduction********
+['INFO ]2023-04-07 10:08:03,902(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Launching Browser********
+['INFO ]2023-04-07 10:08:03,975(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Opening DSAlgo Portal********
+['INFO ]2023-04-07 10:08:10,365(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Launching Browser********
+['INFO ]2023-04-07 10:08:10,367(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Validating Home Page********
+['ERROR]2023-04-07 10:08:13,668(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are not logged in
+['INFO ]2023-04-07 10:08:19,713(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Launching Browser********
+['INFO ]2023-04-07 10:08:23,794(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Launching Browser********
+['INFO ]2023-04-07 10:08:23,797(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Validating Home Page********
+['ERROR]2023-04-07 10:08:28,948(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are not logged in
+['INFO ]2023-04-07 11:23:51,397(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Launching Browser********
+['INFO ]2023-04-07 11:23:51,459(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Opening DSAlgo Portal********
+['INFO ]2023-04-07 11:23:57,077(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Closing Browser********
+['INFO ]2023-04-07 11:24:00,717(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Launching Browser********
+['INFO ]2023-04-07 11:24:00,719(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Validating Home Page********
+['ERROR]2023-04-07 11:24:05,221(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are not logged in
+['INFO ]2023-04-07 11:24:07,530(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Closing Browser********
+['INFO ]2023-04-07 11:24:11,114(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Launching Browser********
+['INFO ]2023-04-07 11:24:13,950(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Closing Browser********
+['INFO ]2023-04-07 11:24:17,676(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Launching Browser********
+['INFO ]2023-04-07 11:24:17,677(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Validating Home Page********
+['ERROR]2023-04-07 11:24:23,725(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are not logged in
+['INFO ]2023-04-07 11:24:25,932(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Closing Browser********
+['INFO ]2023-04-07 11:26:46,394(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Launching Browser********
+['INFO ]2023-04-07 11:26:46,456(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Opening DSAlgo Portal********
+['INFO ]2023-04-07 11:26:49,463(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Closing Browser********
+['INFO ]2023-04-07 11:26:53,049(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Launching Browser********
+['INFO ]2023-04-07 11:26:53,051(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Validating Home Page********
+['ERROR]2023-04-07 11:26:55,036(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are not logged in
+['INFO ]2023-04-07 11:26:57,411(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Closing Browser********
+['INFO ]2023-04-07 11:27:00,959(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Launching Browser********
+['INFO ]2023-04-07 11:27:04,153(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Closing Browser********
+['INFO ]2023-04-07 11:27:09,151(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Launching Browser********
+['INFO ]2023-04-07 11:27:09,153(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Validating Home Page********
+['ERROR]2023-04-07 11:27:12,859(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are not logged in
+['INFO ]2023-04-07 11:27:15,072(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Closing Browser********
+['INFO ]2023-04-07 12:01:29,838(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Launching Browser********
+['INFO ]2023-04-07 12:01:29,919(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Opening DSAlgo Portal********
+['INFO ]2023-04-07 12:01:32,805(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Closing Browser********
+['INFO ]2023-04-07 12:01:36,261(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Launching Browser********
+['INFO ]2023-04-07 12:01:36,263(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Validating Home Page********
+['ERROR]2023-04-07 12:01:37,856(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are not logged in
+['INFO ]2023-04-07 12:01:40,044(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Closing Browser********
+['INFO ]2023-04-07 12:01:43,576(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Launching Browser********
+['INFO ]2023-04-07 12:01:46,777(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Closing Browser********
+['INFO ]2023-04-07 12:01:50,498(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Launching Browser********
+['INFO ]2023-04-07 12:01:50,500(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Validating Home Page********
+['ERROR]2023-04-07 12:01:54,098(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are not logged in
+['INFO ]2023-04-07 12:01:56,295(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Closing Browser********
+['INFO ]2023-04-07 12:01:59,893(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Launching Browser********
+['INFO ]2023-04-07 12:02:00,877(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Closing Browser********
+['INFO ]2023-04-07 12:02:04,438(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Launching Browser********
+['INFO ]2023-04-07 12:02:05,433(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Closing Browser********
+['INFO ]2023-04-07 12:12:09,841(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Launching Browser********
+['INFO ]2023-04-07 12:12:13,487(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Closing Browser********
+['INFO ]2023-04-07 12:12:17,291(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Launching Browser********
+['INFO ]2023-04-07 12:12:20,670(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Closing Browser********
+['INFO ]2023-04-07 12:12:24,554(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Launching Browser********
+['INFO ]2023-04-07 12:12:24,560(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Opening DSAlgo Portal********
+['INFO ]2023-04-07 12:12:27,403(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Closing Browser********
+['INFO ]2023-04-07 12:12:31,298(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Launching Browser********
+['INFO ]2023-04-07 12:12:31,309(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Validating Home Page********
+['ERROR]2023-04-07 12:12:32,812(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are not logged in
+['INFO ]2023-04-07 12:12:35,018(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Closing Browser********
+['INFO ]2023-04-07 12:12:38,555(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Launching Browser********
+['INFO ]2023-04-07 12:12:41,657(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Closing Browser********
+['INFO ]2023-04-07 12:12:45,654(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Launching Browser********
+['INFO ]2023-04-07 12:12:45,656(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Validating Home Page********
+['ERROR]2023-04-07 12:12:49,321(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are not logged in
+['INFO ]2023-04-07 12:12:51,520(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Closing Browser********
+['INFO ]2023-04-07 12:12:55,050(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Launching Browser********
+['INFO ]2023-04-07 12:12:56,155(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Closing Browser********
+['INFO ]2023-04-07 12:12:59,828(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Launching Browser********
+['INFO ]2023-04-07 12:13:00,887(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Closing Browser********
+['INFO ]2023-04-07 12:15:31,461(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Launching Browser********
+['INFO ]2023-04-07 12:15:31,517(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Opening DSAlgo Portal********
+['INFO ]2023-04-07 12:15:34,259(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Closing Browser********
+['INFO ]2023-04-07 12:15:37,691(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Launching Browser********
+['INFO ]2023-04-07 12:15:37,694(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Validating Home Page********
+['ERROR]2023-04-07 12:15:39,398(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are not logged in
+['INFO ]2023-04-07 12:15:41,585(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Closing Browser********
+['INFO ]2023-04-07 12:15:45,373(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Launching Browser********
+['INFO ]2023-04-07 12:15:49,105(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Closing Browser********
+['INFO ]2023-04-07 12:15:52,703(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Launching Browser********
+['INFO ]2023-04-07 12:15:52,710(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Validating Home Page********
+['ERROR]2023-04-07 12:15:57,347(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are not logged in
+['INFO ]2023-04-07 12:15:59,548(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Closing Browser********
+['INFO ]2023-04-07 12:16:03,086(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Launching Browser********
+['INFO ]2023-04-07 12:16:04,631(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Closing Browser********
+['INFO ]2023-04-07 12:16:08,216(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Launching Browser********
+['INFO ]2023-04-07 12:16:09,783(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Closing Browser********
+['INFO ]2023-04-07 12:20:33,746(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Launching Browser********
+['INFO ]2023-04-07 12:20:33,811(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Opening DSAlgo Portal********
+['INFO ]2023-04-07 12:20:37,067(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Closing Browser********
+['INFO ]2023-04-07 12:20:40,485(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Launching Browser********
+['INFO ]2023-04-07 12:20:40,487(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Validating Home Page********
+['ERROR]2023-04-07 12:20:42,097(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are not logged in
+['INFO ]2023-04-07 12:20:44,272(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Closing Browser********
+['INFO ]2023-04-07 12:20:47,688(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Launching Browser********
+['INFO ]2023-04-07 12:20:50,818(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Closing Browser********
+['INFO ]2023-04-07 12:20:54,380(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Launching Browser********
+['INFO ]2023-04-07 12:20:54,383(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Validating Home Page********
+['ERROR]2023-04-07 12:20:59,172(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are not logged in
+['INFO ]2023-04-07 12:21:01,417(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Closing Browser********
+['INFO ]2023-04-07 12:21:04,817(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Launching Browser********
+['INFO ]2023-04-07 12:21:06,133(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Closing Browser********
+['INFO ]2023-04-07 12:21:09,658(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Launching Browser********
+['INFO ]2023-04-07 12:21:10,985(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Closing Browser********
+['INFO ]2023-04-07 12:23:01,781(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Launching Browser********
+['INFO ]2023-04-07 12:23:01,847(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Opening DSAlgo Portal********
+['INFO ]2023-04-07 12:23:04,613(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Closing Browser********
+['INFO ]2023-04-07 12:23:08,003(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Launching Browser********
+['INFO ]2023-04-07 12:23:08,005(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Validating Home Page********
+['ERROR]2023-04-07 12:23:09,698(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are not logged in
+['INFO ]2023-04-07 12:23:11,953(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Closing Browser********
+['INFO ]2023-04-07 12:23:15,370(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Launching Browser********
+['INFO ]2023-04-07 12:23:18,431(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Closing Browser********
+['INFO ]2023-04-07 12:23:21,919(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Launching Browser********
+['INFO ]2023-04-07 12:23:21,922(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Validating Home Page********
+['ERROR]2023-04-07 12:23:25,752(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are not logged in
+['INFO ]2023-04-07 12:23:27,977(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Closing Browser********
+['INFO ]2023-04-07 12:23:31,390(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Launching Browser********
+['INFO ]2023-04-07 12:23:32,882(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Closing Browser********
+['INFO ]2023-04-07 12:23:36,462(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Launching Browser********
+['INFO ]2023-04-07 12:23:37,900(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Closing Browser********
+['INFO ]2023-04-07 12:25:32,074(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Launching Browser********
+['INFO ]2023-04-07 12:25:35,279(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Closing Browser********
+['INFO ]2023-04-07 12:25:38,759(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Launching Browser********
+['INFO ]2023-04-07 12:25:41,980(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Closing Browser********
+['INFO ]2023-04-07 12:31:44,444(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Launching Browser********
+['INFO ]2023-04-07 12:31:48,159(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are logged in
+['INFO ]2023-04-07 12:31:48,160(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Data Structures-Introduction********
+['INFO ]2023-04-07 12:31:53,132(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Closing Browser********
+['INFO ]2023-04-07 12:31:56,462(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Launching Browser********
+['INFO ]2023-04-07 12:31:59,730(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are logged in
+['INFO ]2023-04-07 12:31:59,730(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Data Structures-Introduction********
+['INFO ]2023-04-07 12:32:04,403(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Closing Browser********
+['INFO ]2023-04-07 12:32:57,166(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Launching Browser********
+['INFO ]2023-04-07 12:33:00,454(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are logged in
+['INFO ]2023-04-07 12:33:00,456(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Data Structures-Introduction********
+['INFO ]2023-04-07 12:33:03,693(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Closing Browser********
+['INFO ]2023-04-07 12:33:07,095(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Launching Browser********
+['INFO ]2023-04-07 12:33:10,328(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are logged in
+['INFO ]2023-04-07 12:33:10,330(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Data Structures-Introduction********
+['INFO ]2023-04-07 12:33:13,058(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Closing Browser********
+['INFO ]2023-04-07 12:33:16,411(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Launching Browser********
+['INFO ]2023-04-07 12:33:16,416(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Opening DSAlgo Portal********
+['INFO ]2023-04-07 12:33:19,188(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Closing Browser********
+['INFO ]2023-04-07 12:33:22,443(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Launching Browser********
+['INFO ]2023-04-07 12:33:22,447(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Validating Home Page********
+['ERROR]2023-04-07 12:33:24,038(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are not logged in
+['INFO ]2023-04-07 12:33:26,360(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Closing Browser********
+['INFO ]2023-04-07 12:33:29,633(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Launching Browser********
+['INFO ]2023-04-07 12:33:32,683(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Closing Browser********
+['INFO ]2023-04-07 12:33:36,117(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Launching Browser********
+['INFO ]2023-04-07 12:33:36,120(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Validating Home Page********
+['ERROR]2023-04-07 12:33:40,445(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are not logged in
+['INFO ]2023-04-07 12:33:42,631(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Closing Browser********
+['INFO ]2023-04-07 12:33:46,016(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Launching Browser********
+['INFO ]2023-04-07 12:33:48,579(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Closing Browser********
+['INFO ]2023-04-07 12:33:51,998(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Launching Browser********
+['INFO ]2023-04-07 12:33:54,323(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Closing Browser********
+['INFO ]2023-04-07 16:23:11,910(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Opening DSAlgo Portal********
+['INFO ]2023-04-07 16:23:36,081(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Validating Home Page********
+['ERROR]2023-04-07 16:23:41,352(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are not logged in
+['INFO ]2023-04-07 16:23:55,304(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Validating Home Page********
+['ERROR]2023-04-07 16:23:58,931(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are not logged in
+['INFO ]2023-04-09 12:55:29,984(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-****Validating Login Page****
+['INFO ]2023-04-09 12:55:34,918(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Login Successful
+['INFO ]2023-04-09 12:55:37,028(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-****Validating Login Page****
+['INFO ]2023-04-09 13:01:36,323(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are logged in
+['INFO ]2023-04-09 13:01:36,328(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Data Structures-Introduction********
+['INFO ]2023-04-09 13:01:45,893(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are logged in
+['INFO ]2023-04-09 13:01:45,894(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Data Structures-Introduction********
+['INFO ]2023-04-09 13:01:51,331(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Opening DSAlgo Portal********
+['INFO ]2023-04-09 13:01:55,930(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Validating Home Page********
+['ERROR]2023-04-09 13:01:57,548(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are not logged in
+['INFO ]2023-04-09 13:02:06,371(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Validating Home Page********
+['ERROR]2023-04-09 13:02:10,017(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are not logged in
+['INFO ]2023-04-09 13:02:22,523(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-****Validating Login Page****
+['INFO ]2023-04-09 13:02:27,332(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Login Successful
+['INFO ]2023-04-09 13:02:29,260(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-****Validating Login Page****
+['INFO ]2023-04-09 17:03:10,363(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-****Validating Login Page****
+['INFO ]2023-04-09 17:03:14,880(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Login Successful
+['INFO ]2023-04-09 17:03:16,798(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-****Validating Login Page****
+['INFO ]2023-04-09 17:03:21,683(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Login Successful
+['INFO ]2023-04-09 17:03:23,568(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-****Validating Login Page****
+['INFO ]2023-04-09 17:07:56,690(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-****Validating Login Page****
+['INFO ]2023-04-09 17:08:01,823(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Login Successful
+['INFO ]2023-04-09 17:08:03,870(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-****Validating Login Page****
+['INFO ]2023-04-09 17:08:08,868(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Login Successful
+['INFO ]2023-04-09 17:08:10,829(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-****Validating Login Page****
+['INFO ]2023-04-09 17:08:15,031(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Login Unsuccessful, Invalid Username and Password
+['INFO ]2023-04-10 08:21:12,013(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-****Validating Login Page****
+['INFO ]2023-04-10 08:21:16,932(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Login Successful
+['INFO ]2023-04-10 08:21:19,020(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-****Validating Login Page****
+['INFO ]2023-04-10 08:21:24,293(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Login Successful
+['INFO ]2023-04-10 08:21:26,317(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-****Validating Login Page****
+['INFO ]2023-04-10 08:21:31,518(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Login Unsuccessful, Invalid Username and Password
+['INFO ]2023-04-10 10:49:54,489(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-****Validating Graph Page****
+['INFO ]2023-04-10 11:52:32,790(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-****Validating Graph Page****
+['INFO ]2023-04-10 11:56:55,322(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-****Validating Graph Page****
+['INFO ]2023-04-10 12:01:35,197(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-****Validating Graph Page****
+['INFO ]2023-04-10 15:54:12,484(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-****Validating Graph Page****
+['INFO ]2023-04-10 15:54:23,594(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-****Validating Graph Page****
+['INFO ]2023-04-10 16:01:34,582(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-****Validating Graph Page****
+['INFO ]2023-04-10 16:01:43,395(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-****Validating Graph Page****
+['INFO ]2023-04-10 16:04:09,425(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-****Validating Graph Page****
+['INFO ]2023-04-10 16:04:18,848(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-****Validating Graph Page****
+['INFO ]2023-04-10 16:09:04,790(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-****Validating Graph Page****
+['INFO ]2023-04-10 16:09:25,275(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-****Validating Graph Page****
+['INFO ]2023-04-10 16:17:13,730(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-****Validating Graph Page****
+['INFO ]2023-04-10 16:17:27,433(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-****Validating Graph Page****
+['INFO ]2023-04-10 16:17:41,874(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-****Validating Graph Page****
+['INFO ]2023-04-10 16:17:46,427(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-****Validating Graph Page****
+['INFO ]2023-04-10 16:19:33,461(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-****Validating Graph Page****
+['INFO ]2023-04-10 16:19:42,331(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-****Validating Graph Page****
+['INFO ]2023-04-10 16:19:51,258(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-****Validating Graph Page****
+['INFO ]2023-04-10 16:19:59,712(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-****Validating Graph Page****
+['INFO ]2023-04-10 17:13:59,879(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are logged in
+['INFO ]2023-04-10 17:13:59,892(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Data Structures-Introduction********
+['INFO ]2023-04-10 17:14:08,019(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are logged in
+['INFO ]2023-04-10 17:14:08,020(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Data Structures-Introduction********
+['INFO ]2023-04-10 17:14:18,063(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-****Validating Graph Page****
+['INFO ]2023-04-10 17:14:27,373(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-****Validating Graph Page****
+['INFO ]2023-04-10 17:14:35,248(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-****Validating Graph Page****
+['INFO ]2023-04-10 17:14:43,690(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-****Validating Graph Page****
+['INFO ]2023-04-10 17:14:50,093(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Opening DSAlgo Portal********
+['INFO ]2023-04-10 17:14:54,087(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Validating Home Page********
+['ERROR]2023-04-10 17:14:55,380(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are not logged in
+['INFO ]2023-04-10 17:15:03,653(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Validating Home Page********
+['ERROR]2023-04-10 17:15:07,133(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are not logged in
+['INFO ]2023-04-10 17:15:18,820(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-****Validating Login Page****
+['INFO ]2023-04-10 17:15:23,685(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Login Successful
+['INFO ]2023-04-10 17:15:25,326(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-****Validating Login Page****
+['INFO ]2023-04-10 17:15:29,726(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Login Successful
+['INFO ]2023-04-10 17:15:31,435(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-****Validating Login Page****
+['INFO ]2023-04-10 17:15:35,639(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Login Unsuccessful, Invalid Username and Password
+['INFO ]2023-04-10 17:15:39,425(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-****Validating Stack Page****
+['INFO ]2023-04-10 17:15:47,514(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-****Validating Stack Page****
+['INFO ]2023-04-10 17:15:58,652(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-****Validating Stack Page****
+['INFO ]2023-04-10 17:16:06,575(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-****Validating Stack Page****
+['INFO ]2023-04-10 17:16:14,816(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-****Validating Stack Page****
+['INFO ]2023-04-10 17:16:23,279(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-****Validating Stack Page****
+['INFO ]2023-04-12 11:12:12,888(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Opening DSAlgo Portal********
+['INFO ]2023-04-12 11:12:17,918(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Validating Home Page********
+['ERROR]2023-04-12 11:12:20,036(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are not logged in
+['INFO ]2023-04-12 11:12:29,167(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Validating Home Page********
+['ERROR]2023-04-12 11:12:33,258(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are not logged in
+['INFO ]2023-04-12 19:11:29,580(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-****Validating Queue Page****
+['INFO ]2023-04-12 19:11:39,515(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-****Validating Queue Page****
+['INFO ]2023-04-12 19:11:49,311(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-****Validating Queue Page****
+['INFO ]2023-04-12 19:11:59,278(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-****Validating Queue Page****
+['INFO ]2023-04-12 19:32:42,598(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-*****Validating Tree Module*****
+['INFO ]2023-04-12 19:37:00,755(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-*****Validating Tree Module*****
+['INFO ]2023-04-13 17:17:38,570(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are logged in
+['INFO ]2023-04-13 17:17:38,575(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Data Structures-Introduction********
+['INFO ]2023-04-13 17:17:45,901(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are logged in
+['INFO ]2023-04-13 17:17:45,902(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Data Structures-Introduction********
+['INFO ]2023-04-14 14:24:11,871(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-****Validating Login Page****
+['INFO ]2023-04-14 14:24:16,772(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Login Successful
+['INFO ]2023-04-14 14:24:19,120(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-****Validating Login Page****
+['INFO ]2023-04-14 14:24:23,851(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Login Successful
+['INFO ]2023-04-14 14:24:25,847(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-****Validating Login Page****
+['ERROR]2023-04-14 14:24:40,046(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+['INFO ]2023-04-14 14:24:42,746(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-****Validating Login Page****
+['INFO ]2023-04-14 14:24:47,425(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Login Unsuccessful, Invalid Username and Password
+['INFO ]2023-04-14 16:00:12,430(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-****Validating Login Page****
+['INFO ]2023-04-14 16:00:17,236(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Login Successful
+['INFO ]2023-04-14 16:00:19,261(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-****Validating Login Page****
+['INFO ]2023-04-14 16:00:24,002(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Login Successful
+['INFO ]2023-04-14 16:00:25,954(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-****Validating Login Page****
+['ERROR]2023-04-14 16:00:40,127(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+['INFO ]2023-04-14 16:00:42,492(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-****Validating Login Page****
+['INFO ]2023-04-14 16:00:47,031(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Login Unsuccessful, Invalid Username and Password
+['INFO ]2023-04-14 16:44:32,528(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-****Validating Login Page****
+['INFO ]2023-04-14 16:44:38,191(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Login Successful
+['INFO ]2023-04-14 16:44:40,463(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-****Validating Login Page****
+['INFO ]2023-04-14 16:44:45,760(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Login Successful
+['INFO ]2023-04-14 16:44:47,851(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-****Validating Login Page****
+['ERROR]2023-04-14 16:45:04,327(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+['INFO ]2023-04-14 16:45:06,665(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-****Validating Login Page****
+['INFO ]2023-04-14 16:45:11,038(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Login Unsuccessful, Invalid Username and Password
+['INFO ]2023-04-15 16:35:52,237(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Opening DSAlgo Portal********
+['INFO ]2023-04-15 16:35:56,976(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Validating Home Page********
+['WARN ]2023-04-15 16:35:58,662(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are not logged in
+['INFO ]2023-04-15 16:36:07,597(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Validating Home Page********
+['WARN ]2023-04-15 16:36:11,723(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are not logged in
+['INFO ]2023-04-15 16:57:21,683(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Opening DSAlgo Portal********
+['INFO ]2023-04-15 16:57:26,145(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Validating Home Page********
+['WARN ]2023-04-15 16:57:27,545(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are not logged in
+['INFO ]2023-04-15 16:57:36,438(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Validating Home Page********
+['WARN ]2023-04-15 16:57:40,061(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are not logged in
+['INFO ]2023-04-15 17:23:02,851(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-****Validating DsAlgo Register Page****
+['INFO ]2023-04-15 17:23:11,898(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-****Validating DsAlgo Register Page****
+['INFO ]2023-04-15 17:23:18,253(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-****Validating DsAlgo Register Page****
+['INFO ]2023-04-15 17:23:24,808(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-****Validating DsAlgo Register Page****
+['INFO ]2023-04-15 17:23:31,262(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-****Validating DsAlgo Register Page****
+['INFO ]2023-04-15 17:23:38,352(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-****Validating DsAlgo Register Page****
+['INFO ]2023-04-15 17:23:44,648(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-****Validating DsAlgo Register Page****
+['INFO ]2023-04-15 17:23:49,230(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-****Validating DsAlgo Register Page****
+['INFO ]2023-04-15 17:23:54,017(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-****Validating DsAlgo Register Page****
+['ERROR]2023-04-15 17:23:56,113(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+['INFO ]2023-04-15 21:54:24,534(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Opening DSAlgo Portal********
+['INFO ]2023-04-15 21:54:29,819(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Validating Home Page********
+['WARN ]2023-04-15 21:54:31,576(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are not logged in
+['INFO ]2023-04-15 21:54:40,588(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Validating Home Page********
+['WARN ]2023-04-15 21:54:44,672(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are not logged in
+['INFO ]2023-04-15 23:27:26,421(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Opening DSAlgo Portal********
+['INFO ]2023-04-15 23:27:32,117(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Validating Home Page********
+['WARN ]2023-04-15 23:27:34,336(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are not logged in
+['INFO ]2023-04-15 23:27:43,734(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Validating Home Page********
+['WARN ]2023-04-15 23:27:47,930(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are not logged in
+['INFO ]2023-04-16 07:18:58,894(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-*****Validating Array Page*****
+['INFO ]2023-04-16 07:19:09,371(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-*****Validating Array Page*****
+['INFO ]2023-04-16 07:19:19,345(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-*****Validating Array Page*****
+['INFO ]2023-04-16 07:19:29,380(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-*****Validating Array Page*****
+['INFO ]2023-04-16 07:19:39,071(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-*****Validating Array Page*****
+['INFO ]2023-04-16 07:19:44,818(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-*****Validating Array Page*****
+['INFO ]2023-04-16 07:19:58,067(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-*****Validating Array Page*****
+['INFO ]2023-04-16 07:20:11,546(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-*****Validating Array Page*****
+['INFO ]2023-04-16 07:20:24,779(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-*****Validating Array Page*****
+['INFO ]2023-04-16 07:20:39,338(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are logged in
+['INFO ]2023-04-16 07:20:39,340(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Data Structures-Introduction********
+['INFO ]2023-04-16 07:20:47,246(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are logged in
+['INFO ]2023-04-16 07:20:47,248(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Data Structures-Introduction********
+['INFO ]2023-04-16 07:20:54,499(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-****Validating Graph Page****
+['INFO ]2023-04-16 07:21:02,173(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-****Validating Graph Page****
+['INFO ]2023-04-16 07:21:10,337(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-****Validating Graph Page****
+['INFO ]2023-04-16 07:21:18,215(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-****Validating Graph Page****
+['INFO ]2023-04-16 07:21:24,165(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Opening DSAlgo Portal********
+['INFO ]2023-04-16 07:21:28,303(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Validating Home Page********
+['WARN ]2023-04-16 07:21:29,640(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are not logged in
+['INFO ]2023-04-16 07:21:38,159(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-********Validating Home Page********
+['WARN ]2023-04-16 07:21:41,681(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-You are not logged in
+['INFO ]2023-04-16 07:21:56,138(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-*****Validating LinkedList Module*****
+['INFO ]2023-04-16 07:22:06,061(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-*****Validating LinkedList Module*****
+['INFO ]2023-04-16 07:22:15,767(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-*****Validating LinkedList Module*****
+['INFO ]2023-04-16 07:22:25,772(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-*****Validating LinkedList Module*****
+['INFO ]2023-04-16 07:22:35,897(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-*****Validating LinkedList Module*****
+['INFO ]2023-04-16 07:22:45,530(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-*****Validating LinkedList Module*****
+['INFO ]2023-04-16 07:22:55,710(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-*****Validating LinkedList Module*****
+['INFO ]2023-04-16 07:23:05,484(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-****Validating Queue Page****
+['INFO ]2023-04-16 07:23:15,072(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-****Validating Queue Page****
+['INFO ]2023-04-16 07:23:24,801(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-****Validating Queue Page****
+['INFO ]2023-04-16 07:23:34,703(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-****Validating Queue Page****
+['INFO ]2023-04-16 07:23:42,959(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-****Validating DsAlgo Register Page****
+['INFO ]2023-04-16 07:23:50,315(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-****Validating DsAlgo Register Page****
+['INFO ]2023-04-16 07:23:56,540(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-****Validating DsAlgo Register Page****
+['INFO ]2023-04-16 07:24:02,516(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-****Validating DsAlgo Register Page****
+['INFO ]2023-04-16 07:24:08,719(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-****Validating DsAlgo Register Page****
+['INFO ]2023-04-16 07:24:14,591(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-****Validating DsAlgo Register Page****
+['INFO ]2023-04-16 07:24:20,678(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-****Validating DsAlgo Register Page****
+['INFO ]2023-04-16 07:24:25,033(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-****Validating DsAlgo Register Page****
+['INFO ]2023-04-16 07:24:29,463(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-****Validating DsAlgo Register Page****
+['ERROR]2023-04-16 07:24:31,448(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+['INFO ]2023-04-16 07:24:33,676(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-****Validating Login Page****
+['INFO ]2023-04-16 07:24:38,100(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Login Successful
+['INFO ]2023-04-16 07:24:39,911(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-****Validating Login Page****
+['INFO ]2023-04-16 07:24:44,288(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Login Successful
+['INFO ]2023-04-16 07:24:46,131(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-****Validating Login Page****
+['ERROR]2023-04-16 07:25:00,530(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+['INFO ]2023-04-16 07:25:02,579(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-****Validating Login Page****
+['INFO ]2023-04-16 07:25:09,869(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Login Unsuccessful, Invalid Username and Password
+['INFO ]2023-04-16 07:25:13,921(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-****Validating Stack Page****
+['INFO ]2023-04-16 07:25:21,699(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-****Validating Stack Page****
+['INFO ]2023-04-16 07:25:29,441(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-****Validating Stack Page****
+['INFO ]2023-04-16 07:25:37,086(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-****Validating Stack Page****
+['INFO ]2023-04-16 07:25:44,714(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-****Validating Stack Page****
+['INFO ]2023-04-16 07:25:52,363(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-****Validating Stack Page****
+['INFO ]2023-04-16 07:26:00,099(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-*****Validating Tree Module*****
+['INFO ]2023-04-16 07:26:10,343(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-*****Validating Tree Module*****
+['INFO ]2023-04-16 07:26:20,171(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-*****Validating Tree Module*****
+['INFO ]2023-04-16 07:26:29,805(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-*****Validating Tree Module*****
+['INFO ]2023-04-16 07:26:39,750(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-*****Validating Tree Module*****
+['INFO ]2023-04-16 07:26:49,496(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-*****Validating Tree Module*****
+['INFO ]2023-04-16 07:26:59,070(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-*****Validating Tree Module*****
+['INFO ]2023-04-16 07:27:09,331(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-*****Validating Tree Module*****
+['INFO ]2023-04-16 07:27:19,231(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-*****Validating Tree Module*****
+['INFO ]2023-04-16 07:27:28,978(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-*****Validating Tree Module*****
+['INFO ]2023-04-16 07:27:38,749(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-*****Validating Tree Module*****
+['INFO ]2023-04-16 07:27:48,316(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-*****Validating Tree Module*****
+['INFO ]2023-04-16 07:27:58,552(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-*****Validating Tree Module*****

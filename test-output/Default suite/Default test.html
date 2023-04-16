@@ -55,11 +55,11 @@ function toggleAllBoxes() {
 <body>
 <h2 align='center'>Default test</h2><table border='1' align="center">
 <tr>
-<td>Tests passed/Failed/Skipped:</td><td>3/0/0</td>
+<td>Tests passed/Failed/Skipped:</td><td>62/2/0</td>
 </tr><tr>
-<td>Started on:</td><td>Sat Apr 01 19:14:03 PDT 2023</td>
+<td>Started on:</td><td>Sun Apr 16 07:18:35 PDT 2023</td>
 </tr>
-<tr><td>Total time:</td><td>32 seconds (32631 ms)</td>
+<tr><td>Total time:</td><td>576 seconds (576886 ms)</td>
 </tr><tr>
 <td>Included groups:</td><td></td>
 </tr><tr>
@@ -67,6 +67,95 @@ function toggleAllBoxes() {
 </tr>
 </table><p/>
 <small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-failed'>
+<tr><td colspan='4' align='center'><b>FAILED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td><b>Attribute(s)</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='testRunner.TestRun.runScenario()'><b>runScenario</b><br>Test class: testRunner.TestRun<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Register scenario handling with some empty textbox fields", "Register feature with ExcelSheet Handling"</td>
+<td><div><pre>java.lang.AssertionError: expected [Please fill out this field.] but found []
+	at org.testng.Assert.fail(Assert.java:110)
+	at org.testng.Assert.failNotEquals(Assert.java:1577)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:149)
+	at org.testng.Assert.assertEquals(Assert.java:131)
+	at org.testng.Assert.assertEquals(Assert.java:655)
+	at org.testng.Assert.assertEquals(Assert.java:665)
+	at stepDefinitions.RegisterSteps.it_should_display_an_error(RegisterSteps.java:68)
+	at ✽.It should display an error &quot;Please fill out this field.&quot;(file:///C:/Users/Shoban/eclipse-workspace/DsAlgoProject/src/test/resources/Features/RegisterPage.feature:26)
+</pre></div><a href='#' onClick='toggleBox("stack-trace382826571", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace382826571'><pre>java.lang.AssertionError: expected [Please fill out this field.] but found []
+	at org.testng.Assert.fail(Assert.java:110)
+	at org.testng.Assert.failNotEquals(Assert.java:1577)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:149)
+	at org.testng.Assert.assertEquals(Assert.java:131)
+	at org.testng.Assert.assertEquals(Assert.java:655)
+	at org.testng.Assert.assertEquals(Assert.java:665)
+	at stepDefinitions.RegisterSteps.it_should_display_an_error(RegisterSteps.java:68)
+	at ✽.It should display an error &quot;Please fill out this field.&quot;(file:///C:/Users/Shoban/eclipse-workspace/DsAlgoProject/src/test/resources/Features/RegisterPage.feature:26)
+</pre></div></td>
+<td>4</td>
+<td>testRunner.TestRun@749ab7b4</td></tr>
+<tr>
+<td title='testRunner.TestRun.runScenario()'><b>runScenario</b><br>Test class: testRunner.TestRun<br>Test method: Runs Cucumber Scenarios<br>Parameters: "User validate signin page with valid credentials", "Signin feature"</td>
+<td><div><pre>org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;//a[contains(text(),&apos;Sign out&apos;)]&quot;}
+  (Session info: chrome=112.0.5615.87)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: &apos;4.8.1&apos;, revision: &apos;8ebccac989&apos;
+System info: os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;19.0.2&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [9bae83c1ca0ac5ee76e9245f08cd3e6d, findElement {using=xpath, value=//a[contains(text(),&apos;Sign out&apos;)]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.87, chrome: {chromedriverVersion: 112.0.5615.49 (bd2a7bcb881c..., userDataDir: C:\Users\Shoban\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:57521}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:57521/devtoo..., se:cdpVersion: 112.0.5615.87, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 9bae83c1ca0ac5ee76e9245f08cd3e6d
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:67)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:484)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:167)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:142)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:162)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:352)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:344)
+	at stepDefinitions.SigninSteps.user_gets_success_message_you_are_logged_in(SigninSteps.java:49)
+	at ✽.User gets success message as you are logged in(file:///C:/Users/Shoban/eclipse-workspace/DsAlgoProject/src/test/resources/Features/SigninPage.feature:11)
+</pre></div><a href='#' onClick='toggleBox("stack-trace478329071", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace478329071'><pre>org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;//a[contains(text(),&apos;Sign out&apos;)]&quot;}
+  (Session info: chrome=112.0.5615.87)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: &apos;4.8.1&apos;, revision: &apos;8ebccac989&apos;
+System info: os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;19.0.2&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [9bae83c1ca0ac5ee76e9245f08cd3e6d, findElement {using=xpath, value=//a[contains(text(),&apos;Sign out&apos;)]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.87, chrome: {chromedriverVersion: 112.0.5615.49 (bd2a7bcb881c..., userDataDir: C:\Users\Shoban\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:57521}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:57521/devtoo..., se:cdpVersion: 112.0.5615.87, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 9bae83c1ca0ac5ee76e9245f08cd3e6d
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:67)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:484)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:167)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:142)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:162)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:352)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:344)
+	at stepDefinitions.SigninSteps.user_gets_success_message_you_are_logged_in(SigninSteps.java:49)
+	at ✽.User gets success message as you are logged in(file:///C:/Users/Shoban/eclipse-workspace/DsAlgoProject/src/test/resources/Features/SigninPage.feature:11)
+</pre></div></td>
+<td>16</td>
+<td>testRunner.TestRun@749ab7b4</td></tr>
+</table><p>
 <table width='100%' border='1' class='invocation-passed'>
 <tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
 <tr><td><b>Test method</b></td>
@@ -76,20 +165,315 @@ function toggleAllBoxes() {
 <td><b>Instance</b></td>
 </tr>
 <tr>
-<td title='testRunner.TestRun.runScenario()'><b>runScenario</b><br>Test class: testRunner.TestRun<br>Test method: Runs Cucumber Scenarios<br>Parameters: "User launch home page of an dsalgo project", "Home Page"</td>
+<td title='testRunner.TestRun.runScenario()'><b>runScenario</b><br>Test class: testRunner.TestRun<br>Test method: Runs Cucumber Scenarios<br>Parameters: "User validates Implement Linked List in Python page", "LinkedList feature"</td>
 <td></td>
-<td>12</td>
-<td>testRunner.TestRun@20bd8be5</td></tr>
+<td>9</td>
+<td>testRunner.TestRun@749ab7b4</td></tr>
+<tr>
+<td title='testRunner.TestRun.runScenario()'><b>runScenario</b><br>Test class: testRunner.TestRun<br>Test method: Runs Cucumber Scenarios<br>Parameters: "User validates Search the array page", "Array feature"</td>
+<td></td>
+<td>13</td>
+<td>testRunner.TestRun@749ab7b4</td></tr>
+<tr>
+<td title='testRunner.TestRun.runScenario()'><b>runScenario</b><br>Test class: testRunner.TestRun<br>Test method: Runs Cucumber Scenarios<br>Parameters: "User validates Implementation Of BST page", "Tree feature"</td>
+<td></td>
+<td>10</td>
+<td>testRunner.TestRun@749ab7b4</td></tr>
+<tr>
+<td title='testRunner.TestRun.runScenario()'><b>runScenario</b><br>Test class: testRunner.TestRun<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Register scenario with different set of data", "Register feature with ExcelSheet Handling"</td>
+<td></td>
+<td>7</td>
+<td>testRunner.TestRun@749ab7b4</td></tr>
+<tr>
+<td title='testRunner.TestRun.runScenario()'><b>runScenario</b><br>Test class: testRunner.TestRun<br>Test method: Runs Cucumber Scenarios<br>Parameters: "User validates Find Numbers with Even Number of Digits page", "Array feature"</td>
+<td></td>
+<td>13</td>
+<td>testRunner.TestRun@749ab7b4</td></tr>
 <tr>
 <td title='testRunner.TestRun.runScenario()'><b>runScenario</b><br>Test class: testRunner.TestRun<br>Test method: Runs Cucumber Scenarios<br>Parameters: "User click Data Structures dropdown menu and select Arrays", "Home Page"</td>
 <td></td>
-<td>10</td>
-<td>testRunner.TestRun@20bd8be5</td></tr>
+<td>7</td>
+<td>testRunner.TestRun@749ab7b4</td></tr>
 <tr>
-<td title='testRunner.TestRun.runScenario()'><b>runScenario</b><br>Test class: testRunner.TestRun<br>Test method: Runs Cucumber Scenarios<br>Parameters: "User is on Home page and click on Get Started button without sign in", "Home Page"</td>
+<td title='testRunner.TestRun.runScenario()'><b>runScenario</b><br>Test class: testRunner.TestRun<br>Test method: Runs Cucumber Scenarios<br>Parameters: "User validate signin page with valid credentials", "Signin feature"</td>
+<td></td>
+<td>6</td>
+<td>testRunner.TestRun@749ab7b4</td></tr>
+<tr>
+<td title='testRunner.TestRun.runScenario()'><b>runScenario</b><br>Test class: testRunner.TestRun<br>Test method: Runs Cucumber Scenarios<br>Parameters: "User validates Practice Questions page", "Array feature"</td>
+<td></td>
+<td>5</td>
+<td>testRunner.TestRun@749ab7b4</td></tr>
+<tr>
+<td title='testRunner.TestRun.runScenario()'><b>runScenario</b><br>Test class: testRunner.TestRun<br>Test method: Runs Cucumber Scenarios<br>Parameters: "User validate signin page with invalid credentials", "Signin feature"</td>
+<td></td>
+<td>9</td>
+<td>testRunner.TestRun@749ab7b4</td></tr>
+<tr>
+<td title='testRunner.TestRun.runScenario()'><b>runScenario</b><br>Test class: testRunner.TestRun<br>Test method: Runs Cucumber Scenarios<br>Parameters: "User validates Arrays Using List page", "Array feature"</td>
+<td></td>
+<td>10</td>
+<td>testRunner.TestRun@749ab7b4</td></tr>
+<tr>
+<td title='testRunner.TestRun.runScenario()'><b>runScenario</b><br>Test class: testRunner.TestRun<br>Test method: Runs Cucumber Scenarios<br>Parameters: "User validates Implementation of Binary Trees page", "Tree feature"</td>
+<td></td>
+<td>9</td>
+<td>testRunner.TestRun@749ab7b4</td></tr>
+<tr>
+<td title='testRunner.TestRun.runScenario()'><b>runScenario</b><br>Test class: testRunner.TestRun<br>Test method: Runs Cucumber Scenarios<br>Parameters: "User validate Stack page with wrong python code", "Stack feature"</td>
 <td></td>
 <td>7</td>
-<td>testRunner.TestRun@20bd8be5</td></tr>
+<td>testRunner.TestRun@749ab7b4</td></tr>
+<tr>
+<td title='testRunner.TestRun.runScenario()'><b>runScenario</b><br>Test class: testRunner.TestRun<br>Test method: Runs Cucumber Scenarios<br>Parameters: "User validates Binary Search Trees page", "Tree feature"</td>
+<td></td>
+<td>10</td>
+<td>testRunner.TestRun@749ab7b4</td></tr>
+<tr>
+<td title='testRunner.TestRun.runScenario()'><b>runScenario</b><br>Test class: testRunner.TestRun<br>Test method: Runs Cucumber Scenarios<br>Parameters: "User validates Types of Linked List page", "LinkedList feature"</td>
+<td></td>
+<td>10</td>
+<td>testRunner.TestRun@749ab7b4</td></tr>
+<tr>
+<td title='testRunner.TestRun.runScenario()'><b>runScenario</b><br>Test class: testRunner.TestRun<br>Test method: Runs Cucumber Scenarios<br>Parameters: "User validates Queue page", "Queue feature"</td>
+<td></td>
+<td>9</td>
+<td>testRunner.TestRun@749ab7b4</td></tr>
+<tr>
+<td title='testRunner.TestRun.runScenario()'><b>runScenario</b><br>Test class: testRunner.TestRun<br>Test method: Runs Cucumber Scenarios<br>Parameters: "User is on Home page and click on Get Started button of one module without sign in", "Home Page"</td>
+<td></td>
+<td>5</td>
+<td>testRunner.TestRun@749ab7b4</td></tr>
+<tr>
+<td title='testRunner.TestRun.runScenario()'><b>runScenario</b><br>Test class: testRunner.TestRun<br>Test method: Runs Cucumber Scenarios<br>Parameters: "User validates Types of Binary trees page", "Tree feature"</td>
+<td></td>
+<td>9</td>
+<td>testRunner.TestRun@749ab7b4</td></tr>
+<tr>
+<td title='testRunner.TestRun.runScenario()'><b>runScenario</b><br>Test class: testRunner.TestRun<br>Test method: Runs Cucumber Scenarios<br>Parameters: "User validates Terminologies page", "Tree feature"</td>
+<td></td>
+<td>10</td>
+<td>testRunner.TestRun@749ab7b4</td></tr>
+<tr>
+<td title='testRunner.TestRun.runScenario()'><b>runScenario</b><br>Test class: testRunner.TestRun<br>Test method: Runs Cucumber Scenarios<br>Parameters: "User validate Stack page with wrong python code", "Stack feature"</td>
+<td></td>
+<td>7</td>
+<td>testRunner.TestRun@749ab7b4</td></tr>
+<tr>
+<td title='testRunner.TestRun.runScenario()'><b>runScenario</b><br>Test class: testRunner.TestRun<br>Test method: Runs Cucumber Scenarios<br>Parameters: "User validates Queue page", "Queue feature"</td>
+<td></td>
+<td>9</td>
+<td>testRunner.TestRun@749ab7b4</td></tr>
+<tr>
+<td title='testRunner.TestRun.runScenario()'><b>runScenario</b><br>Test class: testRunner.TestRun<br>Test method: Runs Cucumber Scenarios<br>Parameters: "User validate Graph page", "Graph feature"</td>
+<td></td>
+<td>7</td>
+<td>testRunner.TestRun@749ab7b4</td></tr>
+<tr>
+<td title='testRunner.TestRun.runScenario()'><b>runScenario</b><br>Test class: testRunner.TestRun<br>Test method: Runs Cucumber Scenarios<br>Parameters: "User validates Insertion page", "LinkedList feature"</td>
+<td></td>
+<td>9</td>
+<td>testRunner.TestRun@749ab7b4</td></tr>
+<tr>
+<td title='testRunner.TestRun.runScenario()'><b>runScenario</b><br>Test class: testRunner.TestRun<br>Test method: Runs Cucumber Scenarios<br>Parameters: "User validate Graph page", "Graph feature"</td>
+<td></td>
+<td>8</td>
+<td>testRunner.TestRun@749ab7b4</td></tr>
+<tr>
+<td title='testRunner.TestRun.runScenario()'><b>runScenario</b><br>Test class: testRunner.TestRun<br>Test method: Runs Cucumber Scenarios<br>Parameters: "User validate Stack page", "Stack feature"</td>
+<td></td>
+<td>7</td>
+<td>testRunner.TestRun@749ab7b4</td></tr>
+<tr>
+<td title='testRunner.TestRun.runScenario()'><b>runScenario</b><br>Test class: testRunner.TestRun<br>Test method: Runs Cucumber Scenarios<br>Parameters: "User clicks on Sign in link in home page", "Home Page"</td>
+<td></td>
+<td>4</td>
+<td>testRunner.TestRun@749ab7b4</td></tr>
+<tr>
+<td title='testRunner.TestRun.runScenario()'><b>runScenario</b><br>Test class: testRunner.TestRun<br>Test method: Runs Cucumber Scenarios<br>Parameters: "User validate Graph page with wrong python code", "Graph feature"</td>
+<td></td>
+<td>8</td>
+<td>testRunner.TestRun@749ab7b4</td></tr>
+<tr>
+<td title='testRunner.TestRun.runScenario()'><b>runScenario</b><br>Test class: testRunner.TestRun<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Register scenario with different set of data", "Register feature with ExcelSheet Handling"</td>
+<td></td>
+<td>6</td>
+<td>testRunner.TestRun@749ab7b4</td></tr>
+<tr>
+<td title='testRunner.TestRun.runScenario()'><b>runScenario</b><br>Test class: testRunner.TestRun<br>Test method: Runs Cucumber Scenarios<br>Parameters: "User validate Stack page", "Stack feature"</td>
+<td></td>
+<td>7</td>
+<td>testRunner.TestRun@749ab7b4</td></tr>
+<tr>
+<td title='testRunner.TestRun.runScenario()'><b>runScenario</b><br>Test class: testRunner.TestRun<br>Test method: Runs Cucumber Scenarios<br>Parameters: "User validates Implementation in Python page", "Tree feature"</td>
+<td></td>
+<td>10</td>
+<td>testRunner.TestRun@749ab7b4</td></tr>
+<tr>
+<td title='testRunner.TestRun.runScenario()'><b>runScenario</b><br>Test class: testRunner.TestRun<br>Test method: Runs Cucumber Scenarios<br>Parameters: "User validates Deletion page", "LinkedList feature"</td>
+<td></td>
+<td>10</td>
+<td>testRunner.TestRun@749ab7b4</td></tr>
+<tr>
+<td title='testRunner.TestRun.runScenario()'><b>runScenario</b><br>Test class: testRunner.TestRun<br>Test method: Runs Cucumber Scenarios<br>Parameters: "User validates Traversal page", "LinkedList feature"</td>
+<td></td>
+<td>9</td>
+<td>testRunner.TestRun@749ab7b4</td></tr>
+<tr>
+<td title='testRunner.TestRun.runScenario()'><b>runScenario</b><br>Test class: testRunner.TestRun<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Register scenario with different set of data", "Register feature with ExcelSheet Handling"</td>
+<td></td>
+<td>6</td>
+<td>testRunner.TestRun@749ab7b4</td></tr>
+<tr>
+<td title='testRunner.TestRun.runScenario()'><b>runScenario</b><br>Test class: testRunner.TestRun<br>Test method: Runs Cucumber Scenarios<br>Parameters: "User validates Overview of Trees page", "Tree feature"</td>
+<td></td>
+<td>9</td>
+<td>testRunner.TestRun@749ab7b4</td></tr>
+<tr>
+<td title='testRunner.TestRun.runScenario()'><b>runScenario</b><br>Test class: testRunner.TestRun<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Register scenario with different set of data", "Register feature with ExcelSheet Handling"</td>
+<td></td>
+<td>6</td>
+<td>testRunner.TestRun@749ab7b4</td></tr>
+<tr>
+<td title='testRunner.TestRun.runScenario()'><b>runScenario</b><br>Test class: testRunner.TestRun<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Register scenario handling with some empty textbox fields", "Register feature with ExcelSheet Handling"</td>
+<td></td>
+<td>4</td>
+<td>testRunner.TestRun@749ab7b4</td></tr>
+<tr>
+<td title='testRunner.TestRun.runScenario()'><b>runScenario</b><br>Test class: testRunner.TestRun<br>Test method: Runs Cucumber Scenarios<br>Parameters: "User launch home page of an dsalgo project", "Home Page"</td>
+<td></td>
+<td>4</td>
+<td>testRunner.TestRun@749ab7b4</td></tr>
+<tr>
+<td title='testRunner.TestRun.runScenario()'><b>runScenario</b><br>Test class: testRunner.TestRun<br>Test method: Runs Cucumber Scenarios<br>Parameters: "User validate Graph page with wrong python code", "Graph feature"</td>
+<td></td>
+<td>7</td>
+<td>testRunner.TestRun@749ab7b4</td></tr>
+<tr>
+<td title='testRunner.TestRun.runScenario()'><b>runScenario</b><br>Test class: testRunner.TestRun<br>Test method: Runs Cucumber Scenarios<br>Parameters: "User is on home page and clicking on Data Structures dropdown menu", "Home Page"</td>
+<td></td>
+<td>4</td>
+<td>testRunner.TestRun@749ab7b4</td></tr>
+<tr>
+<td title='testRunner.TestRun.runScenario()'><b>runScenario</b><br>Test class: testRunner.TestRun<br>Test method: Runs Cucumber Scenarios<br>Parameters: "User validates Arrays in Python page", "Array feature"</td>
+<td></td>
+<td>26</td>
+<td>testRunner.TestRun@749ab7b4</td></tr>
+<tr>
+<td title='testRunner.TestRun.runScenario()'><b>runScenario</b><br>Test class: testRunner.TestRun<br>Test method: Runs Cucumber Scenarios<br>Parameters: "User validates Binary Tree Traversals page", "Tree feature"</td>
+<td></td>
+<td>9</td>
+<td>testRunner.TestRun@749ab7b4</td></tr>
+<tr>
+<td title='testRunner.TestRun.runScenario()'><b>runScenario</b><br>Test class: testRunner.TestRun<br>Test method: Runs Cucumber Scenarios<br>Parameters: "User validate DataStructures-Introduction and Time Complexity page", "DataStructures Introduction"</td>
+<td></td>
+<td>8</td>
+<td>testRunner.TestRun@749ab7b4</td></tr>
+<tr>
+<td title='testRunner.TestRun.runScenario()'><b>runScenario</b><br>Test class: testRunner.TestRun<br>Test method: Runs Cucumber Scenarios<br>Parameters: "User validates Traversals-Illustration page", "Tree feature"</td>
+<td></td>
+<td>9</td>
+<td>testRunner.TestRun@749ab7b4</td></tr>
+<tr>
+<td title='testRunner.TestRun.runScenario()'><b>runScenario</b><br>Test class: testRunner.TestRun<br>Test method: Runs Cucumber Scenarios<br>Parameters: "User validate Stack page", "Stack feature"</td>
+<td></td>
+<td>7</td>
+<td>testRunner.TestRun@749ab7b4</td></tr>
+<tr>
+<td title='testRunner.TestRun.runScenario()'><b>runScenario</b><br>Test class: testRunner.TestRun<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Register scenario with different set of data", "Register feature with ExcelSheet Handling"</td>
+<td></td>
+<td>5</td>
+<td>testRunner.TestRun@749ab7b4</td></tr>
+<tr>
+<td title='testRunner.TestRun.runScenario()'><b>runScenario</b><br>Test class: testRunner.TestRun<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Register scenario with different set of data", "Register feature with ExcelSheet Handling"</td>
+<td></td>
+<td>6</td>
+<td>testRunner.TestRun@749ab7b4</td></tr>
+<tr>
+<td title='testRunner.TestRun.runScenario()'><b>runScenario</b><br>Test class: testRunner.TestRun<br>Test method: Runs Cucumber Scenarios<br>Parameters: "User clicks on Register link in home page", "Home Page"</td>
+<td></td>
+<td>4</td>
+<td>testRunner.TestRun@749ab7b4</td></tr>
+<tr>
+<td title='testRunner.TestRun.runScenario()'><b>runScenario</b><br>Test class: testRunner.TestRun<br>Test method: Runs Cucumber Scenarios<br>Parameters: "User validates Applications of Binary trees page", "Tree feature"</td>
+<td></td>
+<td>9</td>
+<td>testRunner.TestRun@749ab7b4</td></tr>
+<tr>
+<td title='testRunner.TestRun.runScenario()'><b>runScenario</b><br>Test class: testRunner.TestRun<br>Test method: Runs Cucumber Scenarios<br>Parameters: "User validates Binary Trees page", "Tree feature"</td>
+<td></td>
+<td>9</td>
+<td>testRunner.TestRun@749ab7b4</td></tr>
+<tr>
+<td title='testRunner.TestRun.runScenario()'><b>runScenario</b><br>Test class: testRunner.TestRun<br>Test method: Runs Cucumber Scenarios<br>Parameters: "User validate Stack page with wrong python code", "Stack feature"</td>
+<td></td>
+<td>7</td>
+<td>testRunner.TestRun@749ab7b4</td></tr>
+<tr>
+<td title='testRunner.TestRun.runScenario()'><b>runScenario</b><br>Test class: testRunner.TestRun<br>Test method: Runs Cucumber Scenarios<br>Parameters: "User validates Types of Trees page", "Tree feature"</td>
+<td></td>
+<td>9</td>
+<td>testRunner.TestRun@749ab7b4</td></tr>
+<tr>
+<td title='testRunner.TestRun.runScenario()'><b>runScenario</b><br>Test class: testRunner.TestRun<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Register scenario handling with some empty textbox fields", "Register feature with ExcelSheet Handling"</td>
+<td></td>
+<td>4</td>
+<td>testRunner.TestRun@749ab7b4</td></tr>
+<tr>
+<td title='testRunner.TestRun.runScenario()'><b>runScenario</b><br>Test class: testRunner.TestRun<br>Test method: Runs Cucumber Scenarios<br>Parameters: "User validates Introduction-LinkedList page", "LinkedList feature"</td>
+<td></td>
+<td>9</td>
+<td>testRunner.TestRun@749ab7b4</td></tr>
+<tr>
+<td title='testRunner.TestRun.runScenario()'><b>runScenario</b><br>Test class: testRunner.TestRun<br>Test method: Runs Cucumber Scenarios<br>Parameters: "User validates Squares of  a Sorted Array page", "Array feature"</td>
+<td></td>
+<td>13</td>
+<td>testRunner.TestRun@749ab7b4</td></tr>
+<tr>
+<td title='testRunner.TestRun.runScenario()'><b>runScenario</b><br>Test class: testRunner.TestRun<br>Test method: Runs Cucumber Scenarios<br>Parameters: "User validates Creating Linked LIst page", "LinkedList feature"</td>
+<td></td>
+<td>9</td>
+<td>testRunner.TestRun@749ab7b4</td></tr>
+<tr>
+<td title='testRunner.TestRun.runScenario()'><b>runScenario</b><br>Test class: testRunner.TestRun<br>Test method: Runs Cucumber Scenarios<br>Parameters: "User validate DataStructures-Introduction and Time Complexity page with wrong python code", "DataStructures Introduction"</td>
+<td></td>
+<td>8</td>
+<td>testRunner.TestRun@749ab7b4</td></tr>
+<tr>
+<td title='testRunner.TestRun.runScenario()'><b>runScenario</b><br>Test class: testRunner.TestRun<br>Test method: Runs Cucumber Scenarios<br>Parameters: "User validates Max Consecutive Ones page", "Array feature"</td>
+<td></td>
+<td>13</td>
+<td>testRunner.TestRun@749ab7b4</td></tr>
+<tr>
+<td title='testRunner.TestRun.runScenario()'><b>runScenario</b><br>Test class: testRunner.TestRun<br>Test method: Runs Cucumber Scenarios<br>Parameters: "User validates Applications of Array page", "Array feature"</td>
+<td></td>
+<td>9</td>
+<td>testRunner.TestRun@749ab7b4</td></tr>
+<tr>
+<td title='testRunner.TestRun.runScenario()'><b>runScenario</b><br>Test class: testRunner.TestRun<br>Test method: Runs Cucumber Scenarios<br>Parameters: "User validates Queue page", "Queue feature"</td>
+<td></td>
+<td>9</td>
+<td>testRunner.TestRun@749ab7b4</td></tr>
+<tr>
+<td title='testRunner.TestRun.runScenario()'><b>runScenario</b><br>Test class: testRunner.TestRun<br>Test method: Runs Cucumber Scenarios<br>Parameters: "User validate signin page with valid credentials", "Signin feature"</td>
+<td></td>
+<td>6</td>
+<td>testRunner.TestRun@749ab7b4</td></tr>
+<tr>
+<td title='testRunner.TestRun.runScenario()'><b>runScenario</b><br>Test class: testRunner.TestRun<br>Test method: Runs Cucumber Scenarios<br>Parameters: "User validates Tree Traversals page", "Tree feature"</td>
+<td></td>
+<td>9</td>
+<td>testRunner.TestRun@749ab7b4</td></tr>
+<tr>
+<td title='testRunner.TestRun.runScenario()'><b>runScenario</b><br>Test class: testRunner.TestRun<br>Test method: Runs Cucumber Scenarios<br>Parameters: "User validates Queue page", "Queue feature"</td>
+<td></td>
+<td>9</td>
+<td>testRunner.TestRun@749ab7b4</td></tr>
+<tr>
+<td title='testRunner.TestRun.runScenario()'><b>runScenario</b><br>Test class: testRunner.TestRun<br>Test method: Runs Cucumber Scenarios<br>Parameters: "User validates Basic Operations in Lists page", "Array feature"</td>
+<td></td>
+<td>9</td>
+<td>testRunner.TestRun@749ab7b4</td></tr>
 </table><p>
 </body>
 </html>

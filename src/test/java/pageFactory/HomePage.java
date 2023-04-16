@@ -17,7 +17,10 @@ public class HomePage {
 	@FindBy(xpath="//button[contains(text(),'Get Started')]")WebElement btnGetStart;
 	@FindBy(xpath="//div[1]/a[contains(text(),'Get Started')]")WebElement btnDSGetStart;
 	@FindBy(xpath="//div[@id=\"navbarCollapse\"]/div[1]/div/a")WebElement dsMenu;
+	@FindBy(xpath="//div[@class='dropdown-menu show']")WebElement dsMenuShow;
 	@FindBy(xpath="//div[@id=\"navbarCollapse\"]/div[1]/div/div/a[1]")WebElement selectArrays;
+	@FindBy(xpath="//a[contains(text(),' Register ')]")WebElement registerBtn;
+	@FindBy(xpath="//a[contains(text(),'Sign in')]")WebElement signinBtn;
 	
 	public void clickGetStartBtn() {
 		btnGetStart.click();
@@ -28,9 +31,16 @@ public class HomePage {
 	}
 	public void clickDSMenu() {
 		dsMenu.click();
+	}
+	public void clickDSArrayOption() {
 		selectArrays.click();
 	}
-	
+	public void clickRegisterBtn() {
+		registerBtn.click();
+	}
+	public void clickSigninBtn() {
+		signinBtn.click();
+	}
 }
 
 
