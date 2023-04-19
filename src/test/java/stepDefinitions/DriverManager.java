@@ -5,7 +5,10 @@ import java.io.FileInputStream;
 import java.io.IOException;
 import java.time.Duration;
 import java.util.Properties;
+import org.openqa.selenium.OutputType;
+import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import io.cucumber.java.After;
@@ -14,10 +17,6 @@ import io.cucumber.java.Scenario;
 import io.github.bonigarcia.wdm.WebDriverManager;
 import io.qameta.allure.Allure;
 import utilities.LoggerLoad;
-import org.openqa.selenium.OutputType;
-import org.openqa.selenium.TakesScreenshot;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.chrome.ChromeOptions;
 
 public class DriverManager extends BaseClass {
 
@@ -69,7 +68,5 @@ public class DriverManager extends BaseClass {
 		//LoggerLoad.info("********Closing Browser********");
 		driver.quit();
 	}
-	
-	
 	
 }
